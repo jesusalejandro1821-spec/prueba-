@@ -1,0 +1,22 @@
+html
+css
+javascript
+
+DOM
+
+html
+    body
+        h1
+        div actualiza
+            p
+            div.perro    JS  perro = document.selectElementByCss('.perro')
+                p
+                span  actuali
+                span
+
+
+Components = Piezas reutilizables 
+App
+  Vehicle
+    Foto
+    SeccionCompra
